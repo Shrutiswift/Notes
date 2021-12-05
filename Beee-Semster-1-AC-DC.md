@@ -1,5 +1,9 @@
 - [What is Rsistance, Inductance and Capacitance?](#what-is-rsistance-inductance-and-capacitance)
-- 
+-- [Electric Potential difference-](#electric-potential-difference-)
+- [Electric Potential difference-](#electric-potential-difference-)
+- [Types of Elements-](#types-of-elements-)
+- [Types of Supply-](#types-of-supply-)
+- [Types of Sources-](#types-of-sources-)
 ### What is Rsistance, Inductance and Capacitance?
 * Resistance- It is a measure of the opposition to current flow in an electrical circuit. 
 * Inductance- An inductor is an energy stored device which stores energy in form of magnetic field and its property is known as inductance.
@@ -20,3 +24,5 @@
 * AC SUPPLY- It is referred as Alternating Current. The current that changes its magnitude and polarity at regular intervals of time. It easily transformed from higher voltage level to lower voltage level. Frequency - 50Hz
 * DC SUPPLY- It is direct current. The current have same magnitude and polarity at all time. Frequency - 0Hz
   
+## Types of Sources-
+  * Voltage source- It is as a battery or generator, provides a potential difference between two points within an electrical circuit allowing current to flowing through it.
