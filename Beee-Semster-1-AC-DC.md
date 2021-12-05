@@ -15,3 +15,8 @@
 * Non-Linear- Those element which donot have constant characteristics or which shows linear graph. Eg - Vacuum tubes, transistor.
 * Unilateral- Those element in which conduction of current is in one direction only. Eg-Diode, transistor. 
 * Bi-Lateral- Those element in which conduction of current is in both directions in an element with same magnitude. Eg - Resistance, Capacitance, Inductance.
+
+## Types of Supply-
+* AC SUPPLY- It is referred as Alternating Current. The current that changes its magnitude and polarity at regular intervals of time. It easily transformed from higher voltage level to lower voltage level. Frequency - 50Hz
+* DC SUPPLY- It is direct current. The current have same magnitude and polarity at all time. Frequency - 0Hz
+  
