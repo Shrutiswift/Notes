@@ -1,4 +1,5 @@
 - [What is Rsistance, Inductance and Capacitance?](#what-is-rsistance-inductance-and-capacitance)
+- 
 ### What is Rsistance, Inductance and Capacitance?
 * Resistance- It is a measure of the opposition to current flow in an electrical circuit. 
 * Inductance- An inductor is an energy stored device which stores energy in form of magnetic field and its property is known as inductance.
@@ -10,7 +11,7 @@
 ## Types of Elements-
 * Active- Those element which have their own source of energy. Eg- voltage source, current source, transistors.
 * Passive- Those element which dodnot have their own source of energy. Eg- Resistance, Inductance, Capacitance
-* Linear
-* Non-Linear
-* Unilateral
-* Bi-Lateral
+* Linear- Those element which have constant characteristics or which shows linear graph. Eg - Resistor, capacitor, inductor.
+* Non-Linear- Those element which donot have constant characteristics or which shows linear graph. Eg - Vacuum tubes, transistor.
+* Unilateral- Those element in which conduction of current is in one direction only. Eg-Diode, transistor. 
+* Bi-Lateral- Those element in which conduction of current is in both directions in an element with same magnitude. Eg - Resistance, Capacitance, Inductance.
