@@ -25,4 +25,5 @@
 * DC SUPPLY- It is direct current. The current have same magnitude and polarity at all time. Frequency - 0Hz
   
 ## Types of Sources-
-  * Voltage source- It is as a battery or generator, provides a potential difference between two points within an electrical circuit allowing current to flowing through it.
+  * Voltage Source- It is as a battery or generator, provides a potential difference between two points within an electrical circuit allowing current to flowing through it.
+  * Current Source- It is an active circuit element that is capable of supplying a constant current flow to a circuit regardless of voltage developed across its terminal. 
