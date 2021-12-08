@@ -54,7 +54,8 @@ DC motor converts electrical energy into mechanical energy. It follows Fleming's
 * F = BIL
 
 ## SPEED- TORQUE CHARACTERISTIC OF DC MOTOR-
-* Shunt Motor- 
+* Shunt Motor- Since the torque is proportional to armature current in a dc shunt motor the speed torque characteristics of such a motor will be identical to the speed armature current characteristics.
 * Series Motor- The dc series motor has a high torque at a low speed and a low torque at a high speed. 
 * Compound Motor- A compound has a high starting torque together with a safe no- load speed.
 
+##
