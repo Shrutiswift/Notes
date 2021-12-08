@@ -55,6 +55,6 @@ DC motor converts electrical energy into mechanical energy. It follows Fleming's
 
 ## SPEED- TORQUE CHARACTERISTIC OF DC MOTOR-
 * Shunt Motor- 
-* Series Motor- 
+* Series Motor- The dc series motor has a high torque at a low speed and a low torque at a high speed. 
 * Compound Motor- A compound has a high starting torque together with a safe no- load speed.
 
