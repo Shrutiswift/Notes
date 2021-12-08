@@ -1,11 +1,17 @@
 
 - [DC Motor-](#dc-motor-)
+- [Principal Parts of a DC machine-](#principal-parts-of-a-dc-machine-)
 - [Constructional parts of DC Machine-](#constructional-parts-of-dc-machine-)
 - [WORKING PRINCIPLE OF DC MOTOR-](#working-principle-of-dc-motor-)
 - [TORQUE- SPEED EQUATION OF DC MOTOR-](#torque--speed-equation-of-dc-motor-)
 
 ## DC Motor- 
 DC motor converts electrical energy into mechanical energy. It follows Fleming's left hand rule.
+
+## Principal Parts of a DC machine-
+* Magnetic field system
+* Armature
+* Commutator and brushgear
 
 ## Constructional parts of DC Machine-
 1. Magnetic frame or yoke- It supports the pole cores and provides mechanical protection to the inner parts of the machine. It provides low reluctance path for the magnetic flux.
