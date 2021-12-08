@@ -5,7 +5,7 @@
 - [TORQUE- SPEED EQUATION OF DC MOTOR-](#torque--speed-equation-of-dc-motor-)
 
 ## DC Motor- 
-DC motor converts electrical energy into mechanical energy.
+DC motor converts electrical energy into mechanical energy. It follows Fleming's left hand rule.
 
 ## Constructional parts of DC Machine-
 1. Magnetic frame or yoke- It supports the pole cores and provides mechanical protection to the inner parts of the machine. It provides low reluctance path for the magnetic flux.
