@@ -5,7 +5,7 @@
 - [WORKING PRINCIPLE OF DC MOTOR-](#working-principle-of-dc-motor-)
 - [SPEED- TORQUE CHARACTERISTIC OF DC MOTOR-](#speed--torque-characteristic-of-dc-motor-)
 - [Losses in DC Machine-](#losses-in-dc-machine-)
-- [DC MAchine Application-](#dc-machine-application-)
+- [DC Machine Application-](#dc-machine-application-)
 
 ## DC Motor- 
 DC motor converts electrical energy into mechanical energy. It follows Fleming's left hand rule.
@@ -65,4 +65,6 @@ DC motor converts electrical energy into mechanical energy. It follows Fleming's
 * Iron losses
 * Mechanical Losses
 
-## DC MAchine Application-
+## DC Machine Application-
+* Generator Application
+* Motor Application
