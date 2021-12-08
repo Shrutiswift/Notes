@@ -4,6 +4,7 @@
 - [Constructional parts of DC Machine-](#constructional-parts-of-dc-machine-)
 - [WORKING PRINCIPLE OF DC MOTOR-](#working-principle-of-dc-motor-)
 - [SPEED- TORQUE CHARACTERISTIC OF DC MOTOR-](#speed--torque-characteristic-of-dc-motor-)
+- [Losses in DC Machine-](#losses-in-dc-machine-)
 
 ## DC Motor- 
 DC motor converts electrical energy into mechanical energy. It follows Fleming's left hand rule.
@@ -58,4 +59,7 @@ DC motor converts electrical energy into mechanical energy. It follows Fleming's
 * Series Motor- The dc series motor has a high torque at a low speed and a low torque at a high speed. 
 * Compound Motor- A compound has a high starting torque together with a safe no- load speed.
 
-##
+## Losses in DC Machine-
+* Copper losses
+* Iron losses
+* Mechanical Losses
