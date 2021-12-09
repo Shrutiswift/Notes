@@ -58,5 +58,7 @@ When a ferromagnetic rod like iron or nickel is placed in a magnetic field paral
 * The cost of piezo-electric quartz is very high.
 * The cutting and shaping of quartz of quartz crystals are very complex.
 
+* Ultrasonic is more denser meadia in Vg < Vl < Vs.
+* 
 
 
