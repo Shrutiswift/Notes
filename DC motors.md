@@ -7,6 +7,7 @@
 - [SPEED- TORQUE CHARACTERISTIC OF DC MOTOR-](#speed--torque-characteristic-of-dc-motor-)
 - [Losses in DC Machine-](#losses-in-dc-machine-)
 - [DC Machine Application-](#dc-machine-application-)
+- [Back emf](#back-emf)
 
 ## DC Motor- 
 DC motor converts electrical energy into mechanical energy. It follows Fleming's left hand rule.
@@ -76,3 +77,6 @@ DC motor converts electrical energy into mechanical energy. It follows Fleming's
 ## DC Machine Application-
 * Generator Application
 * Motor Application
+
+## Back emf
+* When a dc motor armature rotates its conductors cut the magnetic flux. The emf of rotation Er is then induced in them. In a motor this emf of rotation is back emf
