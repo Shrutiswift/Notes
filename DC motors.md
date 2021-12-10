@@ -3,6 +3,7 @@
 - [Principal Parts of a DC machine-](#principal-parts-of-a-dc-machine-)
 - [Constructional parts of DC Machine-](#constructional-parts-of-dc-machine-)
 - [WORKING PRINCIPLE OF DC MOTOR-](#working-principle-of-dc-motor-)
+- [Exicitations in DC machine-](#exicitations-in-dc-machine-)
 - [SPEED- TORQUE CHARACTERISTIC OF DC MOTOR-](#speed--torque-characteristic-of-dc-motor-)
 - [Losses in DC Machine-](#losses-in-dc-machine-)
 - [DC Machine Application-](#dc-machine-application-)
@@ -54,6 +55,10 @@ DC motor converts electrical energy into mechanical energy. It follows Fleming's
 2. It works on the principle that when a current carrying conductor is placed in a magnetic field, the conductor experience a mechanical force.
 
 * F = BIL
+
+## Exicitations in DC machine-
+* Separate excitation
+* Self excitation
 
 ## SPEED- TORQUE CHARACTERISTIC OF DC MOTOR-
 * Shunt Motor- Since the torque is proportional to armature current in a dc shunt motor the speed torque characteristics of such a motor will be identical to the speed armature current characteristics.
