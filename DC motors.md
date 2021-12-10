@@ -57,8 +57,8 @@ DC motor converts electrical energy into mechanical energy. It follows Fleming's
 * F = BIL
 
 ## Exicitations in DC machine-
-* Separate excitation
-* Self excitation
+* Separate excitation- 
+* Self excitation- When the field winding is excited by its own armature the machine is called a self-excitation.
 
 ## SPEED- TORQUE CHARACTERISTIC OF DC MOTOR-
 * Shunt Motor- Since the torque is proportional to armature current in a dc shunt motor the speed torque characteristics of such a motor will be identical to the speed armature current characteristics.
