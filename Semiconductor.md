@@ -13,4 +13,5 @@
 * Direct band gap semiconductor-Those materials for which maximum of valence band and minimum of conduction band lie for same value of k, called direct bandgap materials (i.e. satisfies the condition of energy and momentum conservation).  For example: GaAs, InP, CdS. etc.
 # Indirect Band gap-
 * Indirect bandgap semiconductors-Indirect bandgap semiconductors Those materials for which maximum of valence band and minimum of conduction band do not occur at same value of k, called indirect bandgap materials. For example: Si and Ge
+# Drift current density-
 
